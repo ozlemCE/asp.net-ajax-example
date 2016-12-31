@@ -1,0 +1,6 @@
+C:\Users\Özlem\Documents\Visual Studio 2013\Projects\IstanbulGezi\IstanbulGezi\bin\IstanbulGezi.dll.config
+C:\Users\Özlem\Documents\Visual Studio 2013\Projects\IstanbulGezi\IstanbulGezi\bin\IstanbulGezi.dll
+C:\Users\Özlem\Documents\Visual Studio 2013\Projects\IstanbulGezi\IstanbulGezi\bin\IstanbulGezi.pdb
+C:\Users\Özlem\Documents\Visual Studio 2013\Projects\IstanbulGezi\IstanbulGezi\obj\Debug\IstanbulGezi.dll
+C:\Users\Özlem\Documents\Visual Studio 2013\Projects\IstanbulGezi\IstanbulGezi\obj\Debug\IstanbulGezi.pdb
+C:\Users\Özlem\documents\visual studio 2013\Projects\IstanbulGezi\IstanbulGezi\obj\Debug\IstanbulGezi.csprojResolveAssemblyReference.cache
